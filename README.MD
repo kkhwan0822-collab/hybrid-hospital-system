@@ -34,6 +34,7 @@
 |---|---|
 | 드로퍼 생성 / sudo root 전환 | level 14 / 8 → Slack |
 | 대량 암호화·확장자 변경·삭제 | level 15 → Slack |
+
 https://github.com/user-attachments/assets/d7541fd1-b508-431a-aafc-5c01944fed6c
 
 ## 트러블슈팅
