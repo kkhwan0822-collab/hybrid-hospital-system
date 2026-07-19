@@ -3,7 +3,7 @@
 - **기간**: 2026.4 ~ 2026.6 (2개월) / **형태**: 팀 프로젝트(4인)
 - **담당**: Wazuh 기반 SIEM 설계·구축, 장애 자동복구 아키텍처
 - 온프레미스(민감 데이터) + AWS(운영) + GCP(DR) 3중 구조를 Wazuh로 통합 관제
-![전체 아키텍처](./images/hospital-architecture.png)
+
 ![Wazuh 아키텍처](./images/wazuh_architecture.png)
 
 ## 왜 Wazuh인가
